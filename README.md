@@ -4,14 +4,9 @@ A command-line Python application that allows users to manage a stock inventory 
 
 Features:
 
-Add and save new shoe entries
-
-View all current inventory in a table
-
-Restock the lowest-quantity item
-
-Search for shoes by product code
-
-Calculate and display value per item
-
-Identify the product with the highest stock level
+- Add and save new shoe entries
+- View all current inventory in a table
+- Restock the lowest-quantity item
+- Search for shoes by product code
+- Calculate and display value per item
+- Identify the product with the highest stock level
